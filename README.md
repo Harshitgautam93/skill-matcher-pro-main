@@ -1,58 +1,26 @@
-# Welcome to your Lovable project
+# Welcome to your project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e81b53ac-6a31-4371-ac75-6c737b1d2f54
+This repository contains a Vite + React + TypeScript starter with shadcn-ui and Tailwind CSS.
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+You can edit the project locally or using your preferred online IDE.
 
-**Use Lovable**
+**Using your local machine**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e81b53ac-6a31-4371-ac75-6c737b1d2f54) and start prompting.
+1. Clone the repository using your project's Git URL.
+2. Navigate to the project directory.
+3. Install dependencies with `npm i`.
+4. Start the development server with `npm run dev`.
 
-Changes made via Lovable will be committed automatically to this repo.
+**Edit a file on GitHub**
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Open the file in the repository on GitHub and click the edit (pencil) icon.
+- Make your changes and commit them.
 
 ## What technologies are used for this project?
-
-This project is built with:
 
 - Vite
 - TypeScript
@@ -62,12 +30,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/e81b53ac-6a31-4371-ac75-6c737b1d2f54) and click on Share -> Publish.
+Follow your preferred deployment workflow (Netlify, Vercel, or any static host). Build with `npm run build` and publish the `dist` output.
 
-## Can I connect a custom domain to my Lovable project?
+## Custom domain
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Connect a custom domain through your hosting provider's settings.
